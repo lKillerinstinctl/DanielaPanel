@@ -18,7 +18,7 @@
             align-items: center;
             justify-content: center;
             font-family: 'Inter', sans-serif;
-            background: linear-gradient(to bottom left, #3F3C43 0%, #8A798D 100%);
+            background: linear-gradient(to bottom left, #61349C 0%, #40AFB1 100%);
         }
         
         /* Contenedor principal */
@@ -52,8 +52,8 @@
 
         /* Estilos del botón de pantalla completa */
         .fullscreen-btn {
-            background-color: #5D3964;
-            color: #FFFFFF;
+            background-color: #FFFFF;
+            color: #5967A7;
             font-size: 20px;
             font-weight: bold;
             letter-spacing: 3px;
@@ -96,7 +96,7 @@
 <body>
     <div class="container">
         <!-- Título -->
-        <h1>PROYECTO DRON MARINO</h1>
+        <h1>PANEL SOLAR</h1>
 
         <!-- Contenedor del modelo en iframe -->
         <iframe id="model-container" src="https://sketchfab.com/models/3606fab6aef84736a0e139613165c608/embed?autostart=1" allow="fullscreen"></iframe>
